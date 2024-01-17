@@ -6,7 +6,7 @@ windows.title("Activation Window")
 
 windows.geometry("400x500")
 windows.resizable(False, False)
-windows.configure(bg='white')
+windows.configure(bg='black')
 
 
 frame_header_box = tk.Frame(windows, width=400, height=20, bg='#F0F0F0')
