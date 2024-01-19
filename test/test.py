@@ -6,6 +6,7 @@ windows.title("Activation Window")
 windows.geometry("400x500+600+200")
 windows.resizable(False, False)
 windows.configure(bg='white')
+t 
 
 logo = tk.PhotoImage(file='logo.png')
 windows.iconphoto(False, logo)
